@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  # Lesson plan
  > In this activity your group is tasked to create the ABC's by taking pictures of various items around you and add them to your website.
 >
@@ -59,3 +60,7 @@ How to push a branch...
     - git pull origin main
     - git push origin branchName
 r-storm-symbolic
+=======
+# ad-l3
+AD-05-1 ABC-Challenge-Group
+>>>>>>> 9677aa1b43c39a5d1883d25c3697a989e34058df
