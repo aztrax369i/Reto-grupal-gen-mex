@@ -1,12 +1,20 @@
-html {
-    height: 100%;
-    width: 100%;
-  }
-  div {
-    background-color: grey;
-  }
-  img {
-  max-width: 50%;
-  height: 50%;
-  display: block;
+
+/* Fondo gris para toda la página */
+body {
+    background-color: gray;
+}
+
+/* Todos los h3 comienzan en verde */
+h3 {
+    color: green;
+}
+
+/* Clase para los tres h3 azules */
+.texto-azul {
+    color: blue;
+}
+
+/* Clase para el h3 rojo */
+.texto-rojo {
+    color: red;
 }
